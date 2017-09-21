@@ -1,0 +1,23 @@
+objects/TAppDecCfg.d.o: \
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp \
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h \
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h \
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp :
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h :
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h :
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/brunno/HM-16.7_extractSAD/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h :

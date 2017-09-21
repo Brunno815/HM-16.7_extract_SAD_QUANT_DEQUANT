@@ -1,0 +1,5 @@
+objects/TComLab215.r.o: \
+ /home/brunno/HM-16.7_extractSAD/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComLab215.cpp \
+ /home/brunno/HM-16.7_extractSAD/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComLab215.h
+ /home/brunno/HM-16.7_extractSAD/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComLab215.cpp :
+ /home/brunno/HM-16.7_extractSAD/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComLab215.h :

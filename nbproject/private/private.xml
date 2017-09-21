@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <code-assistance-data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <code-model-enabled>true</code-model-enabled>
+    </code-assistance-data>
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>0</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibCommon/TComTrQuant.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibCommon/TComSlice.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/App/TAppEncoder/TAppEncTop.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibCommon/TComWeightPrediction.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibEncoder/TEncSlice.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibEncoder/TEncSlice.h</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibEncoder/TEncCfg.h</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/App/TAppEncoder/TAppEncCfg.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibEncoder/TEncTop.h</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/App/TAppEncoder/encmain.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibCommon/TComRdCost.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibEncoder/TEncSearch.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibCommon/TComLab215.h</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibCommon/TComSlice.h</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibCommon/TComLab215.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibCommon/TComPattern.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibCommon/TComRdCost.h</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibEncoder/TEncTop.cpp</file>
+            <file>file:/home/brunno/HMS_TODO_ICECS/HM-16.7_extractSAD/source/Lib/TLibEncoder/TEncCu.cpp</file>
+        </group>
+    </open-files>
+</project-private>
